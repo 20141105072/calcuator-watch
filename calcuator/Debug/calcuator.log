@@ -1,0 +1,31 @@
+﻿生成启动时间为 2016/1/13 11:01:12。
+     1>项目“C:\Users\yu\Desktop\Windows计算器watch\calcuator\calcuator\calcuator.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\calcuator.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\VC\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yu\Desktop\Windows计算器watch\calcuator\Debug\calcuator.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\calcuator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\yu\Desktop\Windows计算器watch\calcuator\Debug\calcuator.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yu\Desktop\Windows计算器watch\calcuator\Debug\calcuator.lib" /MACHINE:X86 Debug\calcuator.res
+         Debug\calcuator.exe.embed.manifest.res
+         Debug\calcuator.obj
+         Debug\calcuatorDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\calcuator.exe.embed.manifest" /manifest Debug\calcuator.exe.intermediate.manifest c:\VC\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         calcuator.vcxproj -> C:\Users\yu\Desktop\Windows计算器watch\calcuator\Debug\calcuator.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\calcuator.unsuccessfulbuild”。
+         正在对“Debug\calcuator.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\yu\Desktop\Windows计算器watch\calcuator\calcuator\calcuator.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.56
